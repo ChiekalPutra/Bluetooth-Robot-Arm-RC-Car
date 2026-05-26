@@ -6,7 +6,7 @@
 
 > **Platform:** ESP32 DevKit V1 | **Komunikasi:** Bluetooth Classic (Dabble)  
 > **Versi Firmware:** 1.0 | **Status:** Stable / Functional  
-> **Author:** Chiekal / Krenova
+> **Author:** Chiekal / Krenova Team
 
 ---
 
